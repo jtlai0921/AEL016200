@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatePickerDialog和TimePickerDialog</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_picker_dialog">TimePickerDialog</string>
+    <string name="date_picker_dialog">DatePickerDialog</string>
+
+</resources>

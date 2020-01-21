@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal" >
+
+	<TableRow>
+		<TextView
+			android:text="@string/total_set"
+			android:textSize="20sp"
+		    android:textColor="#0FFFFF" />
+		<EditText
+			android:id="@+id/edtCountSet"
+			android:editable="false"
+			android:text=""
+			android:layout_weight="1" />
+	</TableRow>
+
+	<TableRow>
+		<TextView
+			android:text="@string/player_win_set"
+			android:textSize="20sp"
+		    android:textColor="#0FFFFF" />
+		<EditText android:id="@+id/edtCountPlayerWin"
+			android:editable="false"
+			android:text=""
+			android:layout_weight="1" />
+	</TableRow>
+
+	<TableRow>
+		<TextView
+			android:text="@string/comupter_win_set"
+			android:textSize="20sp"
+		    android:textColor="#0FFFFF" />
+		<EditText android:id="@+id/edtCountComWin"
+			android:editable="false"
+			android:text=""
+			android:layout_weight="1" />
+	</TableRow>
+
+	<TableRow>
+		<TextView android:text="@string/draw"
+			android:textSize="20sp"
+		    android:textColor="#0FFFFF" />
+		<EditText android:id="@+id/edtCountDraw"
+			android:editable="false"
+			android:text=""
+			android:layout_weight="1" />
+	</TableRow>
+
+</TableLayout>

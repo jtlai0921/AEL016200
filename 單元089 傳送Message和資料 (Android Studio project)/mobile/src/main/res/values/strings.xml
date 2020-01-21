@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wearable Message and Data</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_send_msg">傳送 Message</string>
+    <string name="btn_send_data">傳送資料</string>
+
+</resources>

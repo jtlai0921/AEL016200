@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatePicker和TimePicker</string>
+    <string name="action_settings">Settings</string>
+	<string name="btn_ok">確定</string>
+	<string name="result">您選擇的日期和時間是</string>
+
+</resources>

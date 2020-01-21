@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SeekBar和RatingBar</string>
+    <string name="action_settings">Settings</string>
+	<string name="seek_bar_progress">SeekBar的Progress值：</string>
+    <string name="rating_bar_value">RatingBar的Rating值：</string>
+    <string name="rating_bar_progress">RatingBar的Progress值：</string>
+
+</resources>
